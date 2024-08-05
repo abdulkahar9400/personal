@@ -1769,7 +1769,7 @@ text-align: center;
   .wrapper {
  
     margin-left: -9.5%;
-    margin-top: 110%;
+    margin-top: 120%;
     width: 100%;
     padding: -5px;
     overflow: hidden;
@@ -1838,7 +1838,7 @@ text-align: center;
 
 .lefter{
   margin-top: 2em;
-  margin-left: 3em;
+  margin-left: 4em;
   width: 11.5em;
 }
 
@@ -1870,7 +1870,7 @@ text-align: center;
 
 
 .lefter1{
-  margin-top: 2em;
+  margin-top: 4em;
   margin-left: 3em;
   width: 11.5em;
 }
@@ -1914,7 +1914,7 @@ text-align: center;
   justify-content: center;
   align-items: center;
   margin-top: 5em;
-  margin-left: -1em;
+  margin-left: 1em;
   min-height: 200px;
   width: 380px;
   flex-direction: column;
