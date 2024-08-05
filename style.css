@@ -1724,7 +1724,8 @@ text-align: center;
   
    margin-left: 3.9em;
   }
-  
+  #term94{
+      margin-left:7em:
 
 }
 
@@ -1904,7 +1905,7 @@ text-align: center;
 
 #term94{
   padding-top: 2.5em;
-  margin-left:13em;
+  margin-left:7em;
   font-size: medium;
 
 }
@@ -1989,7 +1990,7 @@ text-align: center;
   .wrapper {
  
     margin-left: -9.5%;
-    margin-top: 120%;
+    margin-top: 130%;
     width: 100%;
     padding: -5px;
     
@@ -2123,7 +2124,7 @@ text-align: center;
   justify-content: center;
   align-items: center;
   margin-top: 5em;
-  margin-left: -1em;
+  margin-left: 2em;
   min-height: 190px;
   width: 360px;
 
